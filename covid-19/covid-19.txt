@@ -1,0 +1,9 @@
+<HTML>
+      <head>
+           <tittle>covid-19</tittle>
+       <head/>
+<body>
+      <h1>covid-19></h1>
+<img src=''http://covid-19mexico.jpg''>
+<p>el covid es una enfermedad que a acabado con millones de vidas en todo el mundo<http//civid-19mexico>
+</p>
